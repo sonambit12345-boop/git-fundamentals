@@ -4,3 +4,4 @@ thirst line of deploy.txt
 fourth line of deploy.txt
 fifth line of deploy.txt
 sixth line
+seventh line
